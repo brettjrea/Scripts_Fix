@@ -1,2 +1,2 @@
-# Script_Fixer
+# Scripts_Fix
 Correctly formats scripts for Linux.
